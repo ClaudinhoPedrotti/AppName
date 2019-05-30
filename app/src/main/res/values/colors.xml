@@ -5,4 +5,8 @@
     <color name="colorAccent">#D81B60</color>
     <color name="corprincipal">#0BC7B4</color>
     <color name="cortexto">#FFFFFF</color>
+    <color name="corverde">#CDD9A2</color>
+    <color name="cormarrom">#976A3D</color>
+    <color name="corvermelho">#E36B51</color>
+    <color name="coramarelo">#FEC22D</color>
 </resources>
